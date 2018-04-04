@@ -1,0 +1,11 @@
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\bin\Debug\PadraoNumerosSMS.exe.config
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\bin\Debug\PadraoNumerosSMS.exe
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\bin\Debug\PadraoNumerosSMS.pdb
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\obj\Debug\PadraoNumerosSMS.csprojResolveAssemblyReference.cache
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\obj\Debug\PadraoNumerosSMS.Form1.resources
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\obj\Debug\PadraoNumerosSMS.Properties.Resources.resources
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\obj\Debug\PadraoNumerosSMS.csproj.GenerateResource.cache
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\obj\Debug\PadraoNumerosSMS.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\obj\Debug\PadraoNumerosSMS.exe
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\obj\Debug\PadraoNumerosSMS.pdb
+C:\Users\alvaro.FASIPE\source\repos\PadraoNumerosSMS\PadraoNumerosSMS\obj\Debug\PadraoNumerosSMS.Ajuda.resources
